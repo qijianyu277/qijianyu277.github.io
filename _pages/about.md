@@ -66,7 +66,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/Fig1.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
