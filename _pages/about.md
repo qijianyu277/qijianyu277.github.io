@@ -102,17 +102,17 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2023.04*: &nbsp;First Prize of 2023 Beijing Jiaotong University Mathematical Modeling Competition -->
 
 # 📖 Educations
-- *2025.09 - 2028.06*: &nbsp;(Expected) Master of Science at Kuang Yaming Honors School, Nanjing University.
-- *2021.09 - 2025.06*: &nbsp;Bachelor of Science in Information and Computing Science, Beijing Jiaotong University.
+- *2023.09 - 2026.06*: &nbsp;Master's degree in Computer Science, Central South University.
+- *2019.09 - 2023.06*: &nbsp;Bachelor of Engineering in Computer Science and Technology, Zhengzhou University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!--# 💻 Internships
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**.
+- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**. 
 
 # 📚 Blogs
 
@@ -175,7 +175,7 @@ Introduce a number of methods for optimizing the output of large language models
 
 </div>
 </div>
-
+-->
 <!-- # 👻 Miscellaneous
 
 - ⚽️ Soccer (MIA SAN MIA) / 🎾 Pickleball / 🥏 Frisbee / 👣 Hiking / 💪 Body Building / 🚗 Travelling
