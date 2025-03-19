@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/2dcd74d4-fd07-4736-8851-cd34ad0da246)---
 permalink: /
 title: ""
 excerpt: ""
@@ -19,46 +19,50 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Jinxiang Xie (pronounced as "JIN-shee-ahng SHEE-eh"). I'm a fourth-year undergraduate student majoring in Information and Computing Science at <i class="fas fa-university"></i> **Beijing Jiaotong University**. I am currently a research intern at <i class="fab fa-microsoft"></i> **Microsoft** working with Principal Researcher <a href="https://www.microsoft.com/en-us/research/people/juding/">Justin Ding</a>.
-Previously, I was honored to conduct research at <i class="fas fa-university"></i> **Peking University** under the guidance of Prof. <a href="https://wanxiaojun.github.io/">Xiaojun Wan</a>.
+Hello! I am Jianyu Qi, a postgraduate student at the School of Computer Science at <i class="fas fa-university"></i> **Central South University**. It is my great privilege to be working in the <i class="fab fa-microsoft"></i> **Medical Imaging Research Group** under the guidance of Associate Professor Rongchang Zhao.
 
-I have been offered admission to the graduate program at Nanjing University for Fall 2025, providing me with a valuable window to further immerse myself in research. **I am actively seeking research assistant opportunities in LLMs applications and natural language processing**.
-
-Feel free to reach out, or learn more from [My CV](assets/Jinxiang's CV.pdf).
+Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 <div class="highlight-blocks">
   <div class="highlight-block">
     <h3>🔬 AI Researcher</h3>
     <ul>
-      <li>Research focus on LLMs and NLP</li>
-      <li>Multiple internships at top institutions</li>
-      <li>Publication at AAAI 2025</li>
+      <li>Research focus on Image Translation and Class Incremental Learning</li>
+      <li>Publication at ICASSP 2025 and BIBM 2024</li>
+      <li>Outstanding Bachelor's Thesis Award of Henan Province</li>
     </ul>
   </div>
   
   <div class="highlight-block">
-    <h3>✍️ Content Creator</h3>
+    <h3>🆚 Technology Competition</h3>
     <ul>
-      <li>Technical blogs with 500K+ views</li>
-      <li>Active on <a href="https://www.xiaohongshu.com/user/profile/60c47bae000000000100b07e">Xiaohongshu</a></li>
-      <li>Growing <a href="https://mp.weixin.qq.com/s/5wn3NvB2FBpJD1jK0L4qbQ">WeChat Public Account</a> on Tech & Humanities</li>
+      <li>First Prize in China Robot Competition</li>
+      <li>Second Prize in the National Mathematical Modeling Competition</li>
+      <li>Blue Bridge Cup Henan Province Third Prize</li>
     </ul>
   </div>
-  
+
   <div class="highlight-block">
-    <h3>🌎 Life Explorer</h3>
+    <h3>✍️ Calligraphy enthusiast</h3>
     <ul>
-      <li>Visited 7 countries worldwide</li>
-      <li>Traveled to 32 provinces in China</li>
-      <li>Rich experience in social work & activities</li>
+      <li>Admire Tian Yingzhang's structured Kai script elegance.</li>
+      <li>Practice Jing Xiaopeng's semi-cursive Xing script.</li>
+      <li>Preparing to explore cursive Xing script for skill refinement.</li>
     </ul>
   </div>
 </div>
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025). See you in Philadelphia!
-- *2024.09*: &nbsp;I was admitted to the 25 Fall graduate program at Kuang Yaming Honors School, Nanjing University.
-- *2024.08*: &nbsp;I have joined Microsoft as a Research Intern under the guidance of Principal Researcher Justin Ding, where I focus on evaluating and enhancing LLM outputs.
+- *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
+- *2024.11*: &nbsp;🎉🎉🎉 We won the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
+- *2024.11*: &nbsp;🎉🎉🎉 I won the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
+- *2024.10*: &nbsp;🎉🎉🎉 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!.
+- *2024.03*: &nbsp;🎉🎉🎉 I was awarded the **Second-Class Academic Merit Scholarship**, totaling **CNY 8,000**.
+- *2023.11*: &nbsp;🎉🎉🎉 I was awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
+- *2022.09*: &nbsp;🎉🎉🎉 I was successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
+- *2022.06*: &nbsp;🎉🎉🎉 Our **National College Students' Innovation and Entrepreneurship Training Program** has successfully concluded!
+- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**!
+- *2022.05*: &nbsp;🎉🎉🎉I won the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
 
 # 📝 Publications 
 
