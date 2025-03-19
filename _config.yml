@@ -7,34 +7,34 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinxiang Xie"
+title                    : "Jianyu Qi"
 title_separator          : "-"
 subtitle                 : 
-name                     : "Jinxiang Xie"
+name                     : "Jianyu Qi"
 description              : "Personal Website"
-url                     : "https://jxtse.github.io"
+url                     : "https://qijianyu277.github.io"
 baseurl                 : ""
-repository               : "jxtse/jxtse.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "qijianyu277/qijianyu277.github.io"
+google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://google.com/
 
 # SEO Related
-google_site_verification :  googlea34440bfd0246b9e.html
+google_site_verification :  # googlea34440bfd0246b9e.html
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Jinxiang Xie"
+  name             : "Jianyu Qi"
   avatar           : "images/android-chrome-512x512.jpg"
-  bio              : "Beijing Jiaotong University"
-  location         : "Beijing, China"
+  bio              : "Cenral South University"
+  location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=00fFhxQAAAAJ"
-  email            : "jxTse@outlook.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=00fFhxQAAAAJ"
+  email            : "qijianyu@csu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -43,13 +43,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jxtse"
+  github           : "qijianyu277.io"
   google_plus      :
   keybase          :
-  instagram        : "richardtse_"
+  instagram        : 
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jinxiang-xie"
+  linkedin         : # "jinxiang-xie"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -57,7 +57,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JinxiangTse"
+  twitter          : # "JinxiangTse"
   vine             :
   weibo            :
   xing             :
