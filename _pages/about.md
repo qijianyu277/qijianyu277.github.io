@@ -69,16 +69,28 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DSGram: Dynamic Weighting Sub-Metrics for Grammartical Error Correction in the Era of Large Language Models**
+**AIDC: Benchmark for Analytical Learning in Incremental Disease Classification**
 
-- **Jinxiang Xie**, Yilin Li, Xunjian Yin, Xiaojun Wan
-- In The 39th Annual AAAI Conference on Artificial Intelligence
-- [[Arxiv]](https://arxiv.org/abs/2412.12832) [[Code]](https://github.com/jxtse/GEC-Metrics-DSGram)
+- Rongchang Zhao(mentor)**Jianyu Qi**, Rui Li, Zhijie Zheng, Jian Zhang, Jiaxu Li
+- The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing.
+- [[paper]](https://ieeexplore.ieee.org/abstract/document/10890364) [[Code]](https://ieeexplore.ieee.org/abstract/document/10890364)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
 - We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
 - We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/HFGS.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HFGS: High-Frequency Information Guided Net for Multi-Regions Pseudo-CT Synthesis**
+
+- Rongchang Zhao(mentor)**Jianyu Qi**, Rui Li, Teng Yang, Jiaxu Li, Jian Zhang, Zijian Zhang
+- The 2024 International Conference on Bioinformatics and Biomedicine.
+- [[paper]](https://ieeexplore.ieee.org/abstract/document/10822547) [[Code]](https://github.com/qijianyu277/HFGS)
+
 </div>
 </div>
 
