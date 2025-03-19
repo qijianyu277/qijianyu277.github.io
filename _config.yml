@@ -43,7 +43,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qijianyu277.io"
+  github           : "qijianyu277.github.io"
   google_plus      :
   keybase          :
   instagram        : 
@@ -157,12 +157,12 @@ defaults:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: # compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: # /:categories/:title/
+timezone: # Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
