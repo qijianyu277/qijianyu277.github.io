@@ -45,9 +45,9 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
   <div class="highlight-block">
     <h3>✍️ Calligraphy enthusiast</h3>
     <ul>
-      <li>Admire Tian Yingzhang's structured Kai script elegance.</li>
-      <li>Practice Jing Xiaopeng's semi-cursive Xing script.</li>
-      <li>Preparing to explore cursive Xing script for skill refinement.</li>
+      <li>Admire Tian Yingzhang's structured Kai script elegance</li>
+      <li>Practice Jing Xiaopeng's semi-cursive Xing script</li>
+      <li>Preparing to explore cursive Xing script for skill refinement</li>
     </ul>
   </div>
 </div>
