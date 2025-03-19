@@ -34,7 +34,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
   </div>
   
   <div class="highlight-block">
-    <h3>🆚 Technology Competition</h3>
+    <h3>🆚 Science Competition</h3>
     <ul>
       <li>First Prize in China Robot Competition</li>
       <li>Second Prize in the National Mathematical Modeling Competition</li>
