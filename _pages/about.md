@@ -71,7 +71,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 **AIDC: Benchmark for Analytical Learning in Incremental Disease Classification**
 
-- Rongchang Zhao(mentor)**Jianyu Qi**, Rui Li, Zhijie Zheng, Jian Zhang, Jiaxu Li
+- Rongchang Zhao (mentor), **Jianyu Qi**, Rui Li, Zhijie Zheng, Jian Zhang, Jiaxu Li
 - The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing.
 - [[paper]](https://ieeexplore.ieee.org/abstract/document/10890364) [[Code]](https://ieeexplore.ieee.org/abstract/document/10890364)
 
@@ -87,7 +87,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 **HFGS: High-Frequency Information Guided Net for Multi-Regions Pseudo-CT Synthesis**
 
-- Rongchang Zhao(mentor)**Jianyu Qi**, Rui Li, Teng Yang, Jiaxu Li, Jian Zhang, Zijian Zhang
+- Rongchang Zhao (mentor), **Jianyu Qi**, Rui Li, Teng Yang, Jiaxu Li, Jian Zhang, Zijian Zhang
 - The 2024 International Conference on Bioinformatics and Biomedicine.
 - [[paper]](https://ieeexplore.ieee.org/abstract/document/10822547) [[Code]](https://github.com/qijianyu277/HFGS)
 
