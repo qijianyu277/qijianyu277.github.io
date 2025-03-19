@@ -82,7 +82,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HFGS 2025</div><img src='images/HFGS.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HFGS 2024</div><img src='images/HFGS.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HFGS: High-Frequency Information Guided Net for Multi-Regions Pseudo-CT Synthesis**
