@@ -56,7 +56,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
 - *2024.11*: &nbsp;🎉🎉🎉 We won the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
 - *2024.11*: &nbsp;🎉🎉🎉 I won the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
-- *2024.10*: &nbsp;🎉🎉🎉 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!.
+- *2024.10*: &nbsp;🎉🎉🎉 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!
 - *2024.03*: &nbsp;🎉🎉🎉 I was awarded the **Second-Class Academic Merit Scholarship**, totaling **CNY 8,000**.
 - *2023.11*: &nbsp;🎉🎉🎉 I was awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
 - *2022.09*: &nbsp;🎉🎉🎉 I was successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
