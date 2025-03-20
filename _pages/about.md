@@ -61,7 +61,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2023.11*: &nbsp;🎉🎉🎉 I was awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
 - *2022.09*: &nbsp;🎉🎉🎉 I was successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
 - *2022.06*: &nbsp;🎉🎉🎉 Our **National College Students' Innovation and Entrepreneurship Training Program** has successfully concluded!
-- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**!
+- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**! The school awarded us **CNY 40,000** as an incentive for our participation in this top-level AI competition.
 - *2022.05*: &nbsp;🎉🎉🎉I won the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
 
 # 📝 Publications 
