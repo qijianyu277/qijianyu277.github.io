@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "去新加坡国立大学进行暑期交流"
-date: 2023-07-01
+title: "推荐面试硕士生（ZZU-->CSU）"
+date: 2022-09-28
 categories: life
-location: "Singapore"
-excerpt: "第一次一个人出国，好像世界观淋了一场雨"
+location: "Zhengzhou, China"
+excerpt: "3年磨练，终于保研上岸。下一站是：CSU"
 ---
