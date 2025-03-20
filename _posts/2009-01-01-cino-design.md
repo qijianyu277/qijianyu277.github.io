@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "拥有了第一台联想计算机"
-date: 2009-01-01
+title: "拥有手机的第一时间是注册微信和QQ"
+date: 2015-03-06
 categories: life
-location: "Anhui, China"
-excerpt: "开始折腾刷机、拆机和学习编程"
+location: "Henan, China"
+excerpt: "加好友，加好友，加好友，没有手机的日子里，一些同学走了就永远的走了"
 ---
 
