@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "推荐面试硕士生（ZZU-->CSU）"
+title: "推荐免试硕士生（ZZU-->CSU）"
 date: 2022-09-28
 categories: life
 location: "Zhengzhou, China"
