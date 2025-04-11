@@ -33,7 +33,8 @@ author:
   location         : "Changsha, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=-hAesfgAAAAJ&hl=zh-CN&oi=sra"
+"
   email            : "qijianyu@csu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -50,8 +51,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jianyu-qi"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/283/1037.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-8311-6568"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
