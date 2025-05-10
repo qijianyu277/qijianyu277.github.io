@@ -41,7 +41,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
       <li>Blue Bridge Cup Henan Province Third Prize</li>
     </ul>
   </div>
-
+  <!--
   <div class="highlight-block">
     <h3>✍️ Calligraphy enthusiast</h3>
     <ul>
@@ -50,6 +50,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
       <li>Preparing to explore cursive Xing script for skill refinement</li>
     </ul>
   </div>
+  -->
 </div>
 
 # 🔥 News
@@ -109,7 +110,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!--# 💻 Internships
+💻 Internships
 - *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
 - *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
 - *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**. 
@@ -175,7 +176,7 @@ Introduce a number of methods for optimizing the output of large language models
 
 </div>
 </div>
--->
+
 <!-- # 👻 Miscellaneous
 
 - ⚽️ Soccer (MIA SAN MIA) / 🎾 Pickleball / 🥏 Frisbee / 👣 Hiking / 💪 Body Building / 🚗 Travelling
