@@ -180,5 +180,5 @@ Introduce a number of methods for optimizing the output of large language models
 
 - 🏸 Badminton / 🏐 volleyball / 👣 Hiking / ✍️ Calligraphy enthusiast / 🚗 Travelling
 - 📷 Photography / 🎧 Music (Jay Chou, Xu Song, Absolute music) / 📖 Book
-- 💻 Apple / 🚀 SpaceX / 🐳 DeepSeek / OpenAI / Google
-- 🌀 NARUTO / A Record of a Mortal’s Journey to Immortality
+- 💻 Apple / 🚀 SpaceX / 🐳 DeepSeek / 🤖 OpenAI / 🔍 Google / ✈️ Tencent
+- 🌀 NARUTO / 🪲 A Record of a Mortal’s Journey to Immortality / 🏰 Laputa: Castle in the Sky
