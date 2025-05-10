@@ -179,6 +179,6 @@ Introduce a number of methods for optimizing the output of large language models
 # 👻 Miscellaneous
 
 - 🏸 Badminton / 🏐 volleyball / 👣 Hiking / ✍️ Calligraphy enthusiast / 🚗 Travelling
-- 📷 Photography / 🎧 Music (Jay Chou, Xu Song, Absolute music) / 🎥 Movies
+- 📷 Photography / 🎧 Music (Jay Chou, Xu Song, Absolute music) / 📖 Book
 - 💻 Apple / 🚀 SpaceX / 🐳 DeepSeek / OpenAI / Google
 - 🌀 NARUTO / A Record of a Mortal’s Journey to Immortality
