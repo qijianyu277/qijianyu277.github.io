@@ -110,11 +110,10 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-💻 Internships
-- *2024.08 - Present*: &nbsp;Research Intern, [Data, Knowledge and Intelligence (DKI) Group](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), **Microsoft**.
-- *2023.11 - 2024.08*: &nbsp;Research Intern, [Wangxuan Institute of Computer Technology](https://sai.pku.edu.cn/znxyenglish/), **Peking University**.
-- *2023.05 - 2023.07*: &nbsp;Summer Workshop Student, [School of Computer](https://www.comp.nus.edu.sg/), **National University of Singapore**. 
+# 💻 Internships
+- *2025.05 - Present*: &nbsp;Algorithm engineer, [Intelligent Systems Department](https://www.zte.com.cn/china/about/corporate_information.html), **ZTE CORPORATION**.
 
+<!--
 # 📚 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
@@ -175,11 +174,11 @@ Introduce a number of methods for optimizing the output of large language models
 [[Chinese Version]](https://sspai.com/post/82322)
 
 </div>
-</div>
+</div> -->
 
-<!-- # 👻 Miscellaneous
+# 👻 Miscellaneous
 
-- ⚽️ Soccer (MIA SAN MIA) / 🎾 Pickleball / 🥏 Frisbee / 👣 Hiking / 💪 Body Building / 🚗 Travelling
-- 📷 Photography (Sony A7M4) / 🎧 Music (Hip-Hop, R&B, Soul) / 🎥 Movies
-- 💻 Apple / 🚀 SpaceX / Microsoft / Google / Insta360
-- 🧍 Person Who I Admire: Elon Musk, Demis Hassabis, Fei-Fei Li -->
+- 🏸 Badminton / 🏐 volleyball / 👣 Hiking / ✍️ Calligraphy enthusiast / 🚗 Travelling
+- 📷 Photography / 🎧 Music (Jay Chou, Xu Song, Absolute music) / 🎥 Movies
+- 💻 Apple / 🚀 SpaceX / 🐳 DeepSeek / OpenAI / Google
+- 🌀 NARUTO / A Record of a Mortal’s Journey to Immortality
