@@ -54,7 +54,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in in Dublin, Ireland!
+- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
 - *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
 - *2024.11*: &nbsp;🎉🎉🎉 We won the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
 - *2024.11*: &nbsp;🎉🎉🎉 I won the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
@@ -68,7 +68,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CFSSeg: Closed-Form Solution for Class-Incremental Semantic Segmentation of 2D Images and 3D Point Clouds**
@@ -84,9 +84,8 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/ICASSP.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **AIDC: Benchmark for Analytical Learning in Incremental Disease Classification**
 
 - Rongchang Zhao (mentor), **Jianyu Qi**, Rui Li, Zhijie Zheng, Jian Zhang, Jiaxu Li
