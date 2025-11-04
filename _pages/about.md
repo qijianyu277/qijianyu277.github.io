@@ -68,7 +68,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CFSSeg: Closed-Form Solution for Class-Incremental Semantic Segmentation of 2D Images and 3D Point Clouds**
