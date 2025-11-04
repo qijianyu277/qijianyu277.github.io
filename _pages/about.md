@@ -28,7 +28,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
     <h3>🔬 AI Researcher</h3>
     <ul>
       <li>Research focus on Image Translation and Class Incremental Learning</li>
-      <li>Publication at ICASSP 2025 and BIBM 2024</li>
+      <li>Publication at ACM MM 2025, ICASSP 2025 and BIBM 2024</li>
       <li>Outstanding Bachelor's Thesis Award of Henan Province</li>
     </ul>
   </div>
