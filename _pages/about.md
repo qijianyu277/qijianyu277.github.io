@@ -54,19 +54,19 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉🎉 I was awarded the **National Scholarship** , totaling **CNY 20,000**.
+- *2025.10*: &nbsp;🎉🎉🎉 I am awarded the **National Scholarship** , totaling **CNY 20,000**.
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
 - *2025.03*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, Thank you to all co-authors!
 - *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
-- *2024.11*: &nbsp;🎉🎉🎉 We won the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
-- *2024.11*: &nbsp;🎉🎉🎉 I won the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
+- *2024.11*: &nbsp;🎉🎉🎉 We win the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
+- *2024.11*: &nbsp;🎉🎉🎉 I win the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
 - *2024.10*: &nbsp;🎉🎉🎉 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!
-- *2024.03*: &nbsp;🎉🎉🎉 I was awarded the **Second-Class Academic Merit Scholarship**, totaling **CNY 8,000**.
-- *2023.11*: &nbsp;🎉🎉🎉 I was awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
-- *2022.09*: &nbsp;🎉🎉🎉 I was successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
+- *2024.03*: &nbsp;🎉🎉🎉 I am awarded the **Second-Class Academic Merit Scholarship**, totaling **CNY 8,000**.
+- *2023.11*: &nbsp;🎉🎉🎉 I am awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
+- *2022.09*: &nbsp;🎉🎉🎉 I am successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
 - *2022.06*: &nbsp;🎉🎉🎉 Our **National College Students' Innovation and Entrepreneurship Training Program** has successfully concluded!
-- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉 Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**! The school awarded us **CNY 40,000** as an incentive for our participation in this top-level AI competition.
-- *2022.05*: &nbsp;🎉🎉🎉 I won the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
+- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉 Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**! The school awards us **CNY 40,000** as an incentive for our participation in this top-level AI competition.
+- *2022.05*: &nbsp;🎉🎉🎉 I win the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
 
 # 📝 Publications 
 
@@ -77,7 +77,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 - Jiaxu Li, Songning Lai, Songning_Lai, Rui Li, **Jianyu Qi**, Kejia Fan, Jianheng Tang, Yuhan Zhao, Rongchang Zhao, Dongzhan Zhou, Yutao Yue 
 - The CVPR 2025 Workshop
-- [[paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023) [[Code]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023)
+- [[paper]](https://openreview.net/pdf?id=Ga3YbqP6u5) [[Code]](https://openreview.net/pdf?id=Ga3YbqP6u5)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
