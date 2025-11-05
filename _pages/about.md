@@ -70,22 +70,6 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2025</div><img src='images/CVPRW.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Class Incremental Semantic Segmentation Based on Linear Closed-form Solution**
-
-- Jiaxu Li, Songning Lai, Songning_Lai, Rui Li, **Jianyu Qi**, Kejia Fan, Jianheng Tang, Yuhan Zhao, Rongchang Zhao, Dongzhan Zhou, Yutao Yue 
-- The CVPR 2025 Workshop
-- [[paper]](https://openreview.net/pdf?id=Ga3YbqP6u5) [[Code]](https://openreview.net/pdf?id=Ga3YbqP6u5)
-
-<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
-<!-- - We introduce new sub-metrics for GEC evaluation.
-- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
-- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,6 +78,22 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - Jiaxu Li, Rui Li, **Jianyu Qi**, Songning Lai, Linpu Lv, Kejia Fan, Jianheng Tang, Yutao Yue, Dongzhan Zhou, Yuanhuai Liu, Huiping Zhuang
 - The 33rd ACM International Conference on Multimedia
 - [[paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023) [[Code]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023)
+
+<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
+<!-- - We introduce new sub-metrics for GEC evaluation.
+- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
+- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2025</div><img src='images/CVPRW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Class Incremental Semantic Segmentation Based on Linear Closed-form Solution**
+
+- Jiaxu Li, Songning Lai, Songning_Lai, Rui Li, **Jianyu Qi**, Kejia Fan, Jianheng Tang, Yuhan Zhao, Rongchang Zhao, Dongzhan Zhou, Yutao Yue 
+- The CVPR 2025 Workshop
+- [[paper]](https://openreview.net/pdf?id=Ga3YbqP6u5) [[Code]](https://openreview.net/pdf?id=Ga3YbqP6u5)
 
 <!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
 <!-- - We introduce new sub-metrics for GEC evaluation.
@@ -145,7 +145,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.05 - 2025.10*: &nbsp;Algorithm engineer, [Intelligent Systems Department](https://www.zte.com.cn/china/about/corporate_information.html), **ZTE CORPORATION**.
+- *2025.05 - 2025.11*: &nbsp;Algorithm engineer, [Intelligent Systems Department](https://www.zte.com.cn/china/about/corporate_information.html), **ZTE CORPORATION**.
 
 <!--
 # 📚 Blogs
