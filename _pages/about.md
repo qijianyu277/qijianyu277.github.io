@@ -56,6 +56,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉🎉 I was awarded the **National Scholarship** , totaling **CNY 20,000**.
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
+- *2025.03*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, Thank you to all co-authors!
 - *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
 - *2024.11*: &nbsp;🎉🎉🎉 We won the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
 - *2024.11*: &nbsp;🎉🎉🎉 I won the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
@@ -68,6 +69,22 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 - *2022.05*: &nbsp;🎉🎉🎉 I won the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Workshop 2025</div><img src='images/CVPRW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Class Incremental Semantic Segmentation Based on Linear Closed-form Solution**
+
+- Jiaxu Li, Songning Lai, Songning_Lai, Rui Li, **Jianyu Qi**, Kejia Fan, Jianheng Tang, Yuhan Zhao, Rongchang Zhao, Dongzhan Zhou, Yutao Yue 
+- The CVPR 2025 Workshop
+- [[paper]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023) [[Code]](https://dl.acm.org/doi/pdf/10.1145/3746027.3755023)
+
+<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
+<!-- - We introduce new sub-metrics for GEC evaluation.
+- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
+- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
