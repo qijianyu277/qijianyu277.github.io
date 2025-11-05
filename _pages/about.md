@@ -54,9 +54,9 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉🎉 I am awarded the **National Scholarship** , totaling **CNY 20,000**.
+- *2025.10*: &nbsp;🎉🎉🎉 I am awarded the **National Scholarship**, totaling **CNY 20,000**, Heartfelt thanks to everyone who has helped me get to where I am today!
 - *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
-- *2025.03*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, Thank you to all co-authors!
+- *2025.03*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, thank you to all co-authors!
 - *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
 - *2024.11*: &nbsp;🎉🎉🎉 We win the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
 - *2024.11*: &nbsp;🎉🎉🎉 I win the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
