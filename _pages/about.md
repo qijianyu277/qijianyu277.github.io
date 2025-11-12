@@ -168,7 +168,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📚 Blogs
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">April, 2025</div><img src='images/pic05.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">April, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Tracking the InternVL Series of Technologies
@@ -180,7 +180,7 @@ It will primarily analyze the evolution of InternVL from the perspectives of dat
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2024</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2024</div><img src='images/pic05.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Solving the Traveling Salesman Problem with Genetic Algorithms
@@ -191,7 +191,6 @@ It introduces solving the TSP with genetic algorithms, covering roulette wheel a
 
 </div>
 </div>
-
 
 
 # 👻 Miscellaneous
