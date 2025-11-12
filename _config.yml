@@ -77,7 +77,7 @@ t:
     publications: "Publications"
     educations: "Educations"
     internships: "Internships"
-    blogs: ""
+    blogs: "Blogs"
 
 # Reading Files
 include:
