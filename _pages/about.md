@@ -54,18 +54,20 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉🎉 I am awarded the **National Scholarship**, totaling **CNY 20,000**, heartfelt thanks to everyone who has helped me get to where I am today!
-- *2025.05*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
-- *2025.03*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, thank you to all co-authors!
-- *2024.12*: &nbsp;🎉🎉🎉 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
+- *2025.11*: &nbsp;🥳🥳🥳 One paper is accepted by The Fortieth AAAI Conference on Artificial Intelligence **(AAAI 2026)**. It is my first paper accepted at a top-tier conference, and I sincerely thank everyone who worked tirelessly on it with me! See you in Singapore EXPO!
+- *2025.10*: &nbsp;🥳🥳🥳 I am awarded the **National Scholarship**, totaling **CNY 20,000**, heartfelt thanks to everyone who has helped me get to where I am today!
+- *2025.09*: &nbsp;🎉🎉🎉 I am awarded the **First-Class Academic Scholarship**, totaling **CNY 12,000**.
+- *2025.05*: &nbsp;🥳🥳🥳 One paper is accepted by The 2025 ACM International Conference on Multimedia **(ACM MM 2025)**. See you in Dublin, Ireland at the Royal Dublin Convention Centre!
+- *2025.03*: &nbsp;🥳🥳🥳 One paper is accepted by The 2025 CVPR Workshop **(CVPR Workshop 2025)**, thank you to all co-authors!
+- *2024.12*: &nbsp;🥳🥳🥳 One paper is accepted by The 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing **(ICASSP 2025)**. See you in Hyderabad, India!
 - *2024.11*: &nbsp;🎉🎉🎉 We win the **second prize** in the **2024 Huawei Cup National Mathematical Modeling Competition**, thanks to the joint efforts of my partners.
 - *2024.11*: &nbsp;🎉🎉🎉 I win the **Outstanding Bachelor's Thesis Award of Henan Province**, thanks to my teachers: Qing Zhang and Rongchang Zhao.
-- *2024.10*: &nbsp;🎉🎉🎉 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!
-- *2024.03*: &nbsp;🎉🎉🎉 I am awarded the **Second-Class Academic Merit Scholarship**, totaling **CNY 8,000**.
+- *2024.10*: &nbsp;🥳🥳🥳 One paper is accepted by The 2024 International Conference on Bioinformatics and Biomedicine **(BIBM 2024)**. See you in Lisbon, Portugal!
+- *2024.03*: &nbsp;🎉🎉🎉 I am awarded the **Second-Class Academic Scholarship**, totaling **CNY 8,000**.
 - *2023.11*: &nbsp;🎉🎉🎉 I am awarded the **Academic Merit Scholarship** upon admission, totaling **CNY 10,000**.
 - *2022.09*: &nbsp;🎉🎉🎉 I am successfully **recommended for direct admission** to the School of Computer Science at **Central South University (CSU)** through the postgraduate recommendation program!
 - *2022.06*: &nbsp;🎉🎉🎉 Our **National College Students' Innovation and Entrepreneurship Training Program** has successfully concluded!
-- *2022.05*: &nbsp;🎉🎉🎉🎉🎉🎉 Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**! The school awards us **CNY 40,000** as an incentive for our participation in this top-level AI competition.
+- *2022.05*: &nbsp;🎉🎉🎉🥳🥳🥳 Our AI Lab secured **double championships** in 3D Measurement and 3D Recognition at the **2021 China National Robot Competition & RoboCup China Open**! The school awards us **CNY 40,000** as an incentive for our participation in this top-level AI competition.
 - *2022.05*: &nbsp;🎉🎉🎉 I win the **Third Prize** in the Henan Division of the **13th Blue Bridge Cup Programming Competition**!
 
 # 📝 Publications 
