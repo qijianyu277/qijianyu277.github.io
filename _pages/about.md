@@ -165,7 +165,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 # 💻 Internships
 - *2025.05 - 2025.11*: &nbsp;Algorithm engineer, [Intelligent Systems Department](https://www.zte.com.cn/china/about/corporate_information.html), **ZTE CORPORATION**.
 
-<!--
+
 # 📚 Blogs
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
@@ -226,7 +226,9 @@ Introduce a number of methods for optimizing the output of large language models
 [[Chinese Version]](https://sspai.com/post/82322)
 
 </div>
-</div> -->
+</div>
+
+
 
 # 👻 Miscellaneous
 
