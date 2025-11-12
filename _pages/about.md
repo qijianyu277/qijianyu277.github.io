@@ -168,62 +168,26 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📚 Blogs
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2025</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">April, 2025</div><img src='images/pic05.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Beyond the Future of AI: The Dreams and Deceptions of Cryptocurrency
+## Tracking the InternVL Series of Technologies
 
-My vision of the future: from Bitcoin to an AGI-driven decentralized society
+It will primarily analyze the evolution of InternVL from the perspectives of data, parameters, model architecture, and training.
 
-[[Chinese Version]](https://mp.weixin.qq.com/s/luu2qEzPnYAuryJ9mYoJ6Q) [[English Version]](https://jxtse.medium.com/beyond-the-future-of-ai-the-dreams-and-deceptions-of-cryptocurrency-5da8d4bbf69e)
+[[Chinese Introduction]](https://www.cnblogs.com/jianyuqi71/articles/18852070) [[Project Link]](https://www.cnblogs.com/jianyuqi71/articles/18852070)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">November, 2024</div><img src='images/pic05.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">January, 2024</div><img src='images/pic04.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## LexiMind: An Open-Source LLM-Powered Vocabulary Builder
+## Solving the Traveling Salesman Problem with Genetic Algorithms
 
-LexiMind is an AI-powered vocabulary builder that integrates LLM-based translation with smart word retention. It's designed to help users efficiently learn new words by saving unfamiliar words to a personal word bank and reviewing them with spaced repetition.
+It introduces solving the TSP with genetic algorithms, covering roulette wheel and tournament selection, and compares their pros and cons.
 
-[[Chinese Introduction]](https://www.xiaohongshu.com/explore/67a48f0d000000001800721c?xsec_token=ABXUfGRE_zHTnXbEyaNmuelNX3M4527lw3zirVu2KJUKA=&xsec_source=pc_user) [[Project Link]](https://github.com/jxtse/LexiMind)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July, 2024</div><img src='images/pic02.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## My NLP Learning Path as a Mathematics Undergraduate Student
-
-I share my learning path and some insights on natural language processing as a mathematics undergraduate student.
-
-[[Chinese Version]](https://www.xiaohongshu.com/explore/668a35c8000000001e010600?xsec_token=ABl3IEpctnnXxbjsYlUul3nZBcA622VEEpS6zNOEPrxVI=&xsec_source=pc_user) [[English Version]](https://www.linkedin.com/posts/jinxiang-xie_naturallanguageprocessing-nlp-learningpath-activity-7215638435393359872-dPr8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEmWk88Bhyvl-E41lfo1McNlpiC4YSsk7WQ)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">November, 2023</div><img src='images/pic03.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## LLMs: Cutting-Edge Technology and Future Applications
-
-My notes from a presentation on LLMs at the Gaoling Schoolof Artificial Intelligence, Renmin University of China.
-
-[[Chinese Version]](https://mp.weixin.qq.com/s?__biz=Mzg5NzczMzM3MA==&mid=2247483926&idx=1&sn=c6dcaf93ec8d7ecaa760df4682589b21)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">August, 2023</div><img src='images/pic01.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-## Prompt Engineering: How to Better Ask LLMs
-
-Introduce a number of methods for optimizing the output of large language models and reducing the probability of irrelevant or incorrect responses.
-
-[[Chinese Version]](https://sspai.com/post/82322)
+[[Chinese Version]](https://blog.csdn.net/qq_50313560/article/details/124814551?spm=1001.2014.3001.5501) [[English Version]](https://blog.csdn.net/qq_50313560/article/details/124814551?spm=1001.2014.3001.5501)
 
 </div>
 </div>
