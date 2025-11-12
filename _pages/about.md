@@ -72,6 +72,22 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/DiffSampling.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Revisiting the Data Sampling in Multimodal Post-training from a Difficulty-Distinguish View**
+
+- **Jianyu Qi**, Ding Zou, Wenrui Yan, Rui Ma, Jiaxu Li, Zhijie Zheng, Zhiguo Yang, Rongchang Zhao
+- The Fortieth AAAI Conference on Artificial Intelligence
+- [[paper]](https://arxiv.org/pdf/2511.06722) [[Code]](https://github.com/qijianyu277/DifficultySampling)
+
+<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
+<!-- - We introduce new sub-metrics for GEC evaluation.
+- We propose a novel dynamic weighting method, which integrates the Analytic Hierarchy Process with large language models to ascertain the relative importance of different evaluation criteria.
+- We present two datasets: DSGram-Eval, created through human scoring, and DSGram-LLMs, a larger dataset designed to simulate human scoring for fine-tuning. -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/CFSSeg.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
