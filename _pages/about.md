@@ -54,6 +54,7 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 </div>
 
 # 🔥 News
+- *2026.03*: &nbsp;🥳🥳🥳 One paper is accepted by ICLR 2026 Workshop on Lifelong Agents: Learning, Aligning, Evolving **(ICLR Workshop 2026)**, thank you to all co-authors!
 - *2025.11*: &nbsp;🥳🥳🥳 One paper is accepted by The Fortieth AAAI Conference on Artificial Intelligence **(AAAI 2026)**. It is my first paper accepted at a top-tier conference, and I sincerely thank everyone who worked tirelessly on it with me! See you in Singapore EXPO!
 - *2025.10*: &nbsp;🥳🥳🥳 I am awarded the **National Scholarship**, totaling **CNY 20,000**, heartfelt thanks to everyone who has helped me get to where I am today!
 - *2025.09*: &nbsp;🎉🎉🎉 I am awarded the **First-Class Academic Scholarship**, totaling **CNY 12,000**.
