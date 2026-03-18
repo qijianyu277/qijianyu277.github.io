@@ -72,6 +72,22 @@ Feel free to reach out to me anytime through **qijianyu@csu.edu.cn**.
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2026</div><img src='images/ICLRW.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CF-Router: Closed-Form Solution for Expert Selection in Multimodal Agent Lifelong Learning**
+
+- Jiaxu Li, Zhijie Zheng, **Jianyu Qi**, Rongchang Zhao
+- The Fortieth AAAI Conference on Artificial Intelligence
+- [[paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-hAesfgAAAAJ&citation_for_view=-hAesfgAAAAJ:UeHWp8X0CEIC) [[Code]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=-hAesfgAAAAJ&citation_for_view=-hAesfgAAAAJ:UeHWp8X0CEIC)
+
+<!-- [**Project**](https://github.com/jxtse/GEC_Metrics_LLM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | <a href="">Link to paper</a> -->
+<!-- - We introduce new sub-metrics for GEC evaluation.
+- We propose CF-Router, an efficient closed-form routing framework that decouples expert selection from gradient optimization for multimodal lifelong learning.
+- We present a lightweight, replay-free learning paradigm that computes routing weights analytically and mathematically eliminates catastrophic forgetting. -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/DiffSampling.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
